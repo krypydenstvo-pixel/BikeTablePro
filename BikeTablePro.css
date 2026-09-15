@@ -1,0 +1,19 @@
+html {
+    font-size: 25px;
+}
+body {
+    background-color: #6c6c6d;
+    color: #ffee00;
+    text-align: center;
+}
+
+.bike-table {
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+.bike-table,
+.bike-table th,
+.bike-table td {
+    border: 2px solid #ffee00;
+}
