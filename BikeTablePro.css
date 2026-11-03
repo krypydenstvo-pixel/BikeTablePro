@@ -3,8 +3,20 @@ html {
 }
 body {
     background-color: #000000;
-    color: #ffee00;
+    color: #ffffff;
     text-align: center;
+}
+
+h3 {
+    color: #ffee00;
+}
+
+h2 {
+    color: #ff0000;
+}
+
+h1 {
+    color: #0011ff;
 }
 
 .bike-table {
@@ -15,5 +27,5 @@ body {
 .bike-table,
 .bike-table th,
 .bike-table td {
-    border: 2px solid #ffee00;
+    border: 2px solid #ffffff;
 }
